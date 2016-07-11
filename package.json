@@ -49,7 +49,8 @@
           "[JavaScript](#javascript)",
           "[Java](#java)",
           "[C#](#c-1)",
-          "[CSS](#css)"
+          "[CSS](#css)",
+          "[C](undefined)"
         ]
       },
       {
@@ -552,6 +553,63 @@
               "[@ncla](https://github.com/ncla)/[**SiteUpdateTracker**](https://github.com/ncla/SiteUpdateTracker)",
               "Tracking stuff.",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "27",
+              "[@DimaSmirnov](https://github.com/DimaSmirnov)/[**Archlinux-downgrader**](https://github.com/DimaSmirnov/Archlinux-downgrader)",
+              "Powerful packages downgrader for Archlinux, written in C",
+              ""
+            ],
+            [
+              "9",
+              "[@TheWhisp](https://github.com/TheWhisp)/[**android_device_samsu…**](https://github.com/TheWhisp/android_device_samsung_s7500)",
+              "Device configuration for Samsung GT-S7500",
+              "[:arrow_upper_right:](http://forum.xda-developers.com/showthread.php?t=2012939)"
+            ],
+            [
+              "7",
+              "[@TheWhisp](https://github.com/TheWhisp)/[**android_kernel_samsu…**](https://github.com/TheWhisp/android_kernel_samsung_msm7x27a)",
+              "Linux kernel for Samsung GT-S6500(D) and GT-S7500",
+              ""
+            ],
+            [
+              "5",
+              "[@chocis](https://github.com/chocis)/[**raspberry_bare_metal…**](https://github.com/chocis/raspberry_bare_metal_os)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@andreyv](https://github.com/andreyv)/[**hexchat-autoaway**](https://github.com/andreyv/hexchat-autoaway)",
+              "A HexChat plugin to set away on idle",
+              ""
+            ],
+            [
+              "3",
+              "[@arseniuss](https://github.com/arseniuss)/[**flos**](https://github.com/arseniuss/flos)",
+              "flos experimental operating system",
+              "[:arrow_upper_right:](http://flos.arseniuss.id.lv)"
+            ],
+            [
+              "3",
+              "[@TheWhisp](https://github.com/TheWhisp)/[**android_device_samsu…**](https://github.com/TheWhisp/android_device_samsung_s6500)",
+              "Device configuration for Samsung GT-S6500 (NFC)",
+              "[:arrow_upper_right:](http://forum.xda-developers.com/showthread.php?t=2012939)"
             ]
           ]
         }
