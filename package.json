@@ -38,5 +38,320 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/made-in-latvia/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/made-in-latvia#readme"
+  "homepage": "https://github.com/IonicaBizau/made-in-latvia#readme",
+  "blah": {
+    "installation": [
+      {
+        "h2": "Contents"
+      },
+      {
+        "ul": [
+          "[JavaScript](#javascript)"
+        ]
+      },
+      {
+        "h3": "JavaScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "3841",
+              "[@fancyapps](https://github.com/fancyapps)/[**fancyBox**](https://github.com/fancyapps/fancyBox)",
+              "fancyBox is a tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages.",
+              "[:arrow_upper_right:](http://fancyapps.com/fancybox/)"
+            ],
+            [
+              "466",
+              "[@pkrumins](https://github.com/pkrumins)/[**node-lazy**](https://github.com/pkrumins/node-lazy)",
+              "lazy lists for node.js",
+              "[:arrow_upper_right:](http://www.catonmat.net)"
+            ],
+            [
+              "336",
+              "[@pkrumins](https://github.com/pkrumins)/[**nodejs-proxy**](https://github.com/pkrumins/nodejs-proxy)",
+              "A HTTP proxy server written in node.js",
+              "[:arrow_upper_right:](http://www.catonmat.net/http-proxy-in-nodejs)"
+            ],
+            [
+              "173",
+              "[@dnasir](https://github.com/dnasir)/[**jquery-cascading-dro…**](https://github.com/dnasir/jquery-cascading-dropdown)",
+              "A simple and lighweight jQuery plugin for cascading dropdown.",
+              ""
+            ],
+            [
+              "114",
+              "[@aivis](https://github.com/aivis)/[**user-stream**](https://github.com/aivis/user-stream)",
+              "Node.js Twitter user stream module.",
+              ""
+            ],
+            [
+              "84",
+              "[@pkrumins](https://github.com/pkrumins)/[**node-image**](https://github.com/pkrumins/node-image)",
+              "Unifies node-png, node-jpeg and node-gif (for great good)",
+              "[:arrow_upper_right:](http://www.catonmat.net)"
+            ],
+            [
+              "77",
+              "[@pkrumins](https://github.com/pkrumins)/[**node-iptables**](https://github.com/pkrumins/node-iptables)",
+              "basic iptables control via nodejs",
+              "[:arrow_upper_right:](http://www.catonmat.net)"
+            ],
+            [
+              "55",
+              "[@pkrumins](https://github.com/pkrumins)/[**node-tree-kill**](https://github.com/pkrumins/node-tree-kill)",
+              "kill trees of processes",
+              ""
+            ],
+            [
+              "45",
+              "[@pkrumins](https://github.com/pkrumins)/[**node-supermarket**](https://github.com/pkrumins/node-supermarket)",
+              "A key/value store based on sqlite for node.js that actually works.",
+              "[:arrow_upper_right:](http://www.catonmat.net)"
+            ],
+            [
+              "44",
+              "[@pkrumins](https://github.com/pkrumins)/[**node-jsmin**](https://github.com/pkrumins/node-jsmin)",
+              "javascript minimizer for node.js",
+              "[:arrow_upper_right:](http://www.catonmat.net)"
+            ],
+            [
+              "41",
+              "[@pkrumins](https://github.com/pkrumins)/[**node-browser**](https://github.com/pkrumins/node-browser)",
+              "Provides a Browser for easy web browsing from node.js",
+              "[:arrow_upper_right:](http://www.catonmat.net)"
+            ],
+            [
+              "37",
+              "[@dnasir](https://github.com/dnasir)/[**angular-dateParser**](https://github.com/dnasir/angular-dateParser)",
+              "A simple parser that converts date and time strings into Date object",
+              ""
+            ],
+            [
+              "19",
+              "[@intarstudents](https://github.com/intarstudents)/[**keySharky**](https://github.com/intarstudents/keySharky)",
+              "Add missing keyboard functionality to Grooveshark! ",
+              "[:arrow_upper_right:](http://keysharky.tldr.lv/)"
+            ],
+            [
+              "17",
+              "[@pkrumins](https://github.com/pkrumins)/[**node-passwd**](https://github.com/pkrumins/node-passwd)",
+              "Node.js module to manage /etc/passwd",
+              "[:arrow_upper_right:](http://www.catonmat.net)"
+            ],
+            [
+              "15",
+              "[@pkrumins](https://github.com/pkrumins)/[**social-submitter**](https://github.com/pkrumins/social-submitter)",
+              "Submit your stories to Reddit, Hacker News, Twitter, Plurk, Identi.ca, Facebook at once!",
+              "[:arrow_upper_right:](http://www.catonmat.net)"
+            ],
+            [
+              "15",
+              "[@skakri](https://github.com/skakri)/[**photoswipe-rails**](https://github.com/skakri/photoswipe-rails)",
+              "A gem to add PhotoSwipe to Rails asset pipeline",
+              ""
+            ],
+            [
+              "14",
+              "[@pkrumins](https://github.com/pkrumins)/[**invoice**](https://github.com/pkrumins/invoice)",
+              "generate pdf invoices from latex via pdflatex",
+              ""
+            ],
+            [
+              "12",
+              "[@pkrumins](https://github.com/pkrumins)/[**supermarket-cart**](https://github.com/pkrumins/supermarket-cart)",
+              "Connect session store using supermarket",
+              "[:arrow_upper_right:](http://www.stackvm.com)"
+            ],
+            [
+              "11",
+              "[@dnasir](https://github.com/dnasir)/[**jquery-lazyimage**](https://github.com/dnasir/jquery-lazyimage)",
+              "A simple and lightweight plugin to lazily load images.",
+              ""
+            ],
+            [
+              "10",
+              "[@popoffka](https://github.com/popoffka)/[**dungeons**](https://github.com/popoffka/dungeons)",
+              "dungeons is a roguelike game made using HTML5 <canvas> & JavaScript.",
+              "[:arrow_upper_right:](http://dun.shell.tor.hu)"
+            ],
+            [
+              "10",
+              "[@pkrumins](https://github.com/pkrumins)/[**keyboard**](https://github.com/pkrumins/keyboard)",
+              "provides english keyboard (used as a widget for browserling)",
+              ""
+            ],
+            [
+              "10",
+              "[@pkrumins](https://github.com/pkrumins)/[**ssh-key-manager**](https://github.com/pkrumins/ssh-key-manager)",
+              "manage ssh keys on the server side (can be used with ssh-key-widget)",
+              ""
+            ],
+            [
+              "6",
+              "[@aivis](https://github.com/aivis)/[**json-formater**](https://github.com/aivis/json-formater)",
+              "Node.js JSON data formater / comparator",
+              ""
+            ],
+            [
+              "5",
+              "[@pkrumins](https://github.com/pkrumins)/[**node-number-range**](https://github.com/pkrumins/node-number-range)",
+              "number ranges",
+              ""
+            ],
+            [
+              "4",
+              "[@ronv](https://github.com/ronv)/[**Typewriter.js**](https://github.com/ronv/Typewriter.js)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@DavisMiculis](https://github.com/DavisMiculis)/[**jPulse**](https://github.com/DavisMiculis/jPulse)",
+              "jPulse is a jQuery library that adds \"pulse-like\" effect to selected element.",
+              ""
+            ],
+            [
+              "4",
+              "[@pkrumins](https://github.com/pkrumins)/[**rackspace-tools**](https://github.com/pkrumins/rackspace-tools)",
+              "some tools to manage rackspace cloud servers",
+              "[:arrow_upper_right:](http://www.catonmat.net)"
+            ],
+            [
+              "3",
+              "[@EriksRemess](https://github.com/EriksRemess)/[**node-speedtest-mini**](https://github.com/EriksRemess/node-speedtest-mini)",
+              "Speedtest.net Mini for Node.js",
+              ""
+            ],
+            [
+              "3",
+              "[@EriksRemess](https://github.com/EriksRemess)/[**radiotwitterbot.js**](https://github.com/EriksRemess/radiotwitterbot.js)",
+              "a simple internet radio twitter bot",
+              ""
+            ],
+            [
+              "3",
+              "[@EriksRemess](https://github.com/EriksRemess)/[**geekit-safari**](https://github.com/EriksRemess/geekit-safari)",
+              "GeekIt for Safari",
+              ""
+            ],
+            [
+              "3",
+              "[@RuslanZavacky](https://github.com/RuslanZavacky)/[**yesnopuzzle**](https://github.com/RuslanZavacky/yesnopuzzle)",
+              "Repository for Ember.js Presentation",
+              ""
+            ],
+            [
+              "3",
+              "[@eID-LV](https://github.com/eID-LV)/[**eidtsttom**](https://github.com/eID-LV/eidtsttom)",
+              "Apache Tomcat based Latvian eID authentication webserver app",
+              ""
+            ],
+            [
+              "3",
+              "[@renarsvilnis](https://github.com/renarsvilnis)/[**fout-b-gone**](https://github.com/renarsvilnis/fout-b-gone)",
+              "Git repository for foutbgone bower package",
+              ""
+            ],
+            [
+              "3",
+              "[@eID-LV](https://github.com/eID-LV)/[**eidtstapa**](https://github.com/eID-LV/eidtstapa)",
+              "Apache based Latvian eID authentication webserver app",
+              ""
+            ],
+            [
+              "3",
+              "[@AMekss](https://github.com/AMekss)/[**jquery.quicktip**](https://github.com/AMekss/jquery.quicktip)",
+              "jQuery plugin for browser's default tooltip text replacement",
+              ""
+            ],
+            [
+              "2",
+              "[@EriksRemess](https://github.com/EriksRemess)/[**Pasaules-pulkstenis**](https://github.com/EriksRemess/Pasaules-pulkstenis)",
+              "Iztulkots Mac OS X Lion vidžets",
+              ""
+            ],
+            [
+              "2",
+              "[@intarstudents](https://github.com/intarstudents)/[**httpK3y**](https://github.com/intarstudents/httpK3y)",
+              "Toggle keyboard shortcuts from outside of Firefox or Prism!",
+              "[:arrow_upper_right:](https://addons.mozilla.org/en-US/firefox/addon/242725/)"
+            ],
+            [
+              "2",
+              "[@popoffka](https://github.com/popoffka)/[**ponydraw**](https://github.com/popoffka/ponydraw)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@eID-LV](https://github.com/eID-LV)/[**eidtstiis**](https://github.com/eID-LV/eidtstiis)",
+              "IIS based Latvian eID authentication webserver app",
+              ""
+            ],
+            [
+              "2",
+              "[@intarstudents](https://github.com/intarstudents)/[**keyMazony**](https://github.com/intarstudents/keyMazony)",
+              "Add missing keyboard functionality to Amazon Cloud Player!",
+              "[:arrow_upper_right:](http://keymazony.tldr.lv/)"
+            ],
+            [
+              "2",
+              "[@aivis](https://github.com/aivis)/[**draugiem**](https://github.com/aivis/draugiem)",
+              "Draugiem.lv API node.js client",
+              ""
+            ],
+            [
+              "2",
+              "[@renarsvilnis](https://github.com/renarsvilnis)/[**lol-build-manager-el…**](https://github.com/renarsvilnis/lol-build-manager-electron-app)",
+              "Cross platform application built with help of Electron framework for the League of Legends build manager",
+              ""
+            ],
+            [
+              "2",
+              "[@ronv](https://github.com/ronv)/[**TermLand**](https://github.com/ronv/TermLand)",
+              "Terminal Style Landing Page",
+              ""
+            ],
+            [
+              "2",
+              "[@gusc](https://github.com/gusc)/[**jQuery-Jmol**](https://github.com/gusc/jQuery-Jmol)",
+              "Jmol jQuery plugin",
+              ""
+            ],
+            [
+              "2",
+              "[@dainis](https://github.com/dainis)/[**nodejs-scraper**](https://github.com/dainis/nodejs-scraper)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@dnasir](https://github.com/dnasir)/[**jquery-tagz**](https://github.com/dnasir/jquery-tagz)",
+              "jQuery plugin that converts standard HTML text input into a cool tag list.",
+              ""
+            ],
+            [
+              "2",
+              "[@pkrumins](https://github.com/pkrumins)/[**plurk-translation-to…**](https://github.com/pkrumins/plurk-translation-tool)",
+              "A GreaseMonkey script for translating plurks on any timeline",
+              "[:arrow_upper_right:](http://opensource.plurk.com/Translation_Tool/)"
+            ],
+            [
+              "2",
+              "[@intarstudents](https://github.com/intarstudents)/[**Bytingshark**](https://github.com/intarstudents/Bytingshark)",
+              "Add missing file size UI to Grooveshark!",
+              "[:arrow_upper_right:](http://userscripts.org/scripts/show/119253)"
+            ]
+          ]
+        }
+      }
+    ]
+  }
 }
