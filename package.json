@@ -48,7 +48,8 @@
         "ul": [
           "[JavaScript](#javascript)",
           "[Java](#java)",
-          "[C#](#c-1)"
+          "[C#](#c-1)",
+          "[CSS](#css)"
         ]
       },
       {
@@ -529,6 +530,27 @@
               "3",
               "[@pdonald](https://github.com/pdonald)/[**latvval-kvaldarbs**](https://github.com/pdonald/latvval-kvaldarbs)",
               "Latviešu valodas vārdu locītājs",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "CSS #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "4",
+              "[@ncla](https://github.com/ncla)/[**SiteUpdateTracker**](https://github.com/ncla/SiteUpdateTracker)",
+              "Tracking stuff.",
               ""
             ]
           ]
