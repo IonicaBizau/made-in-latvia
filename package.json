@@ -46,7 +46,8 @@
       },
       {
         "ul": [
-          "[JavaScript](#javascript)"
+          "[JavaScript](#javascript)",
+          "[Java](#java)"
         ]
       },
       {
@@ -348,6 +349,141 @@
               "[@intarstudents](https://github.com/intarstudents)/[**Bytingshark**](https://github.com/intarstudents/Bytingshark)",
               "Add missing file size UI to Grooveshark!",
               "[:arrow_upper_right:](http://userscripts.org/scripts/show/119253)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Java #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "498",
+              "[@attenzione](https://github.com/attenzione)/[**android-ColorPickerP…**](https://github.com/attenzione/android-ColorPickerPreference)",
+              "ColorPickerPreference for android to create color picker in preferences. Project created as Library",
+              ""
+            ],
+            [
+              "24",
+              "[@omegasoft7](https://github.com/omegasoft7)/[**FSLogger**](https://github.com/omegasoft7/FSLogger)",
+              "Android Logger with a lot of options to help Developers",
+              ""
+            ],
+            [
+              "21",
+              "[@LatvianModder](https://github.com/LatvianModder)/[**FTBUtilities**](https://github.com/LatvianModder/FTBUtilities)",
+              "FTBUtilities mod for Minecraft. Depends on FTBLib",
+              "[:arrow_upper_right:](http://minecraft.curseforge.com/projects/ftb-utilities)"
+            ],
+            [
+              "10",
+              "[@PeterisP](https://github.com/PeterisP)/[**morphology**](https://github.com/PeterisP/morphology)",
+              "Latvian morphology module",
+              ""
+            ],
+            [
+              "9",
+              "[@LatvianModder](https://github.com/LatvianModder)/[**CurseGraph**](https://github.com/LatvianModder/CurseGraph)",
+              "",
+              ""
+            ],
+            [
+              "8",
+              "[@LatvianModder](https://github.com/LatvianModder)/[**FTBLib**](https://github.com/LatvianModder/FTBLib)",
+              "FTBLib mod for Minecraft. Depends on LatLib",
+              "[:arrow_upper_right:](http://minecraft.curseforge.com/projects/ftblib)"
+            ],
+            [
+              "8",
+              "[@AlexeyBuzdin](https://github.com/AlexeyBuzdin)/[**android-development-…**](https://github.com/AlexeyBuzdin/android-development-course)",
+              "Course for Android Development",
+              ""
+            ],
+            [
+              "5",
+              "[@AlexeyBuzdin](https://github.com/AlexeyBuzdin)/[**robovm-dagger2-sampl…**](https://github.com/AlexeyBuzdin/robovm-dagger2-sample)",
+              "Sample project with Android, RoboVM and Web clients",
+              ""
+            ],
+            [
+              "5",
+              "[@LatvianModder](https://github.com/LatvianModder)/[**EMC_Condenser**](https://github.com/LatvianModder/EMC_Condenser)",
+              "EMC Condenser mod",
+              "[:arrow_upper_right:](http://minecraft.curseforge.com/projects/emc-condenser)"
+            ],
+            [
+              "4",
+              "[@buzdin](https://github.com/buzdin)/[**hybrid-web-apps**](https://github.com/buzdin/hybrid-web-apps)",
+              "Demonstration of hyprid web application approach",
+              ""
+            ],
+            [
+              "4",
+              "[@DavisNT](https://github.com/DavisNT)/[**XposedLollipopTests**](https://github.com/DavisNT/XposedLollipopTests)",
+              "Bug report example for Xposed for Lollipop (https://github.com/rovo89/android_art/i… and https://github.com/rovo89/Xposed/issues/…",
+              ""
+            ],
+            [
+              "3",
+              "[@buzdin](https://github.com/buzdin)/[**postcard-from-baltic…**](https://github.com/buzdin/postcard-from-baltics)",
+              "Hack4Europe Riga",
+              ""
+            ],
+            [
+              "3",
+              "[@PeterisP](https://github.com/PeterisP)/[**LVTagger**](https://github.com/PeterisP/LVTagger)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@buzdin](https://github.com/buzdin)/[**java-microbenchmarki…**](https://github.com/buzdin/java-microbenchmarking)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@ivarsv](https://github.com/ivarsv)/[**android-liepajniekie…**](https://github.com/ivarsv/android-liepajniekiem-afisa)",
+              "Android App that retrieves events from liepajniekiem.lv site",
+              "[:arrow_upper_right:](www.mindmutex.com)"
+            ],
+            [
+              "2",
+              "[@mstrengis](https://github.com/mstrengis)/[**DraugiemApi**](https://github.com/mstrengis/DraugiemApi)",
+              "has to be included as library on your android app",
+              ""
+            ],
+            [
+              "2",
+              "[@knoppixmeister](https://github.com/knoppixmeister)/[**android_custom_swipe…**](https://github.com/knoppixmeister/android_custom_swipe_refresh_listfragment)",
+              "Android custom swipe refresh listfragment with load indicator and Try Load button when empty ListAdapter",
+              "[:arrow_upper_right:](http://bizapps.lv)"
+            ],
+            [
+              "2",
+              "[@LatvianModder](https://github.com/LatvianModder)/[**EnkiTools**](https://github.com/LatvianModder/EnkiTools)",
+              "EnkiTools mod",
+              "[:arrow_upper_right:](http://minecraft.curseforge.com/projects/enkitools)"
+            ],
+            [
+              "2",
+              "[@LatvianModder](https://github.com/LatvianModder)/[**Silicio**](https://github.com/LatvianModder/Silicio)",
+              "Silicio mod",
+              "[:arrow_upper_right:](http://minecraft.curseforge.com/projects/silicio)"
+            ],
+            [
+              "2",
+              "[@ivarsv](https://github.com/ivarsv)/[**stanford-ai-class**](https://github.com/ivarsv/stanford-ai-class)",
+              "Proof of concept implementations from Lecture materials",
+              ""
             ]
           ]
         }
