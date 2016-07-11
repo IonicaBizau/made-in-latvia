@@ -55,7 +55,8 @@
           "[Go](#go)",
           "[Lua](#lua)",
           "[PHP](#php)",
-          "[Python](#python)"
+          "[Python](#python)",
+          "[R](#r)"
         ]
       },
       {
@@ -1343,6 +1344,33 @@
               "2",
               "[@Brick85](https://github.com/Brick85)/[**django-qshop**](https://github.com/Brick85/django-qshop)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "R #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@CSBLatvia](https://github.com/CSBLatvia)/[**surveyplanning**](https://github.com/CSBLatvia/surveyplanning)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@CSBLatvia](https://github.com/CSBLatvia)/[**vardpoor**](https://github.com/CSBLatvia/vardpoor)",
+              "R package for variance estimation in survey sampling",
               ""
             ]
           ]
