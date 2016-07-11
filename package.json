@@ -53,7 +53,8 @@
           "[C](undefined)",
           "[C++](#c-2)",
           "[Go](#go)",
-          "[Lua](#lua)"
+          "[Lua](#lua)",
+          "[PHP](#php)"
         ]
       },
       {
@@ -784,6 +785,429 @@
               "[@ar2rsawseen](https://github.com/ar2rsawseen)/[**Share**](https://github.com/ar2rsawseen/Share)",
               "Share button in Gideros app",
               "[:arrow_upper_right:](http://appcodingeasy.com/Gideros-Mobile/Share-button-in-Gideros-app)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "PHP #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "385",
+              "[@YahnisElsts](https://github.com/YahnisElsts)/[**plugin-update-checke…**](https://github.com/YahnisElsts/plugin-update-checker)",
+              "A custom update checker for WordPress plugins. Ufseful if you can't or don't want to host your plugin in the official WP plugin repository, but would still like it to support automatic plugin updates.",
+              ""
+            ],
+            [
+              "253",
+              "[@puikinsh](https://github.com/puikinsh)/[**Sparkling**](https://github.com/puikinsh/Sparkling)",
+              "WordPress Bootstrap 3 theme with doeznes of options powered by Options Framework",
+              "[:arrow_upper_right:](http://colorlib.com/wp/themes/sparkling/)"
+            ],
+            [
+              "236",
+              "[@YahnisElsts](https://github.com/YahnisElsts)/[**wp-update-server**](https://github.com/YahnisElsts/wp-update-server)",
+              "A custom update API for WordPress plugins and themes. Intended to be used in conjunction with my plugin-update-checker library.",
+              ""
+            ],
+            [
+              "227",
+              "[@kasparsd](https://github.com/kasparsd)/[**minit**](https://github.com/kasparsd/minit)",
+              "A WordPress plugin to combine CSS and Javascript files",
+              ""
+            ],
+            [
+              "142",
+              "[@puikinsh](https://github.com/puikinsh)/[**Dazzling**](https://github.com/puikinsh/Dazzling)",
+              "Flat design WordPress WooCommerce theme developed using Bootstrap 3 and FlexSlider",
+              "[:arrow_upper_right:](http://colorlib.com/wp/themes/dazzling/)"
+            ],
+            [
+              "82",
+              "[@puikinsh](https://github.com/puikinsh)/[**Unite-Theme**](https://github.com/puikinsh/Unite-Theme)",
+              "Customizable WordPress WooCommerce theme developed using Bootstrap 3 and Options Framework",
+              "[:arrow_upper_right:](http://colorlib.com/wp/unite)"
+            ],
+            [
+              "50",
+              "[@dmitryd](https://github.com/dmitryd)/[**typo3-realurl**](https://github.com/dmitryd/typo3-realurl)",
+              "RealURL extension for TYPO3 CMS",
+              ""
+            ],
+            [
+              "46",
+              "[@puikinsh](https://github.com/puikinsh)/[**Travelify**](https://github.com/puikinsh/Travelify)",
+              "WordPress theme with Theme Customization API integration, Theme Options, content slider and layout options",
+              "[:arrow_upper_right:](http://colorlib.com/wp/themes/travelify/)"
+            ],
+            [
+              "45",
+              "[@puikinsh](https://github.com/puikinsh)/[**Activello**](https://github.com/puikinsh/Activello)",
+              "WordPress Bootstrap blog theme with doeznes of options using WordPress Customizer",
+              ""
+            ],
+            [
+              "27",
+              "[@kasparsd](https://github.com/kasparsd)/[**widget-context-wporg**](https://github.com/kasparsd/widget-context-wporg)",
+              "Widget Context",
+              "[:arrow_upper_right:](https://wordpress.org/plugins/widget-context/)"
+            ],
+            [
+              "19",
+              "[@integry](https://github.com/integry)/[**livecart**](https://github.com/integry/livecart)",
+              "PHP e-commerce storefront software",
+              "[:arrow_upper_right:](http://livecart.com)"
+            ],
+            [
+              "18",
+              "[@sitilge](https://github.com/sitilge)/[**propeller**](https://github.com/sitilge/propeller)",
+              "Graphical DBMS tool based on Propel",
+              ""
+            ],
+            [
+              "17",
+              "[@fruit](https://github.com/fruit)/[**sfCacheTaggingPlugin**](https://github.com/fruit/sfCacheTaggingPlugin)",
+              "The sfCacheTaggingPlugin is a Symfony plugin to store caches associated with unique tags to keep cache content up-to-date based by incrementing tags version",
+              "[:arrow_upper_right:](http://www.symfony-project.org/plugins/sfCacheTaggingPlugin)"
+            ],
+            [
+              "16",
+              "[@kasparsd](https://github.com/kasparsd)/[**envato-automatic-plu…**](https://github.com/kasparsd/envato-automatic-plugin-update)",
+              "WordPress plugin library for providing automatic plugin updates to CodeCanyon plugins",
+              ""
+            ],
+            [
+              "14",
+              "[@dmitryd](https://github.com/dmitryd)/[**typo3-dd_googlesitem…**](https://github.com/dmitryd/typo3-dd_googlesitemap)",
+              "This is a \"dd_googlesitemap\" TYPO3 extension. It adds sitemap support to TYPO3 CMS.",
+              ""
+            ],
+            [
+              "14",
+              "[@kasparsd](https://github.com/kasparsd)/[**feed-image-enclosure**](https://github.com/kasparsd/feed-image-enclosure)",
+              "Add featured images as enclosures in RSS feeds",
+              ""
+            ],
+            [
+              "12",
+              "[@kasparsd](https://github.com/kasparsd)/[**orbiter**](https://github.com/kasparsd/orbiter)",
+              "Orbiter is a sim­ple and extend­able PHP tool for pub­lish­ing beau­ti­ful web­sites out of simple text documents",
+              "[:arrow_upper_right:](viaorbiter.com)"
+            ],
+            [
+              "10",
+              "[@kasparsd](https://github.com/kasparsd)/[**photos-sync**](https://github.com/kasparsd/photos-sync)",
+              "Sync OS X Photos to Anywhere (NAS, Dropbox, Amazon S3 or Glacier, Backblaze B2)",
+              ""
+            ],
+            [
+              "10",
+              "[@MatissJanis](https://github.com/MatissJanis)/[**oc-frontend-forms-ex…**](https://github.com/MatissJanis/oc-frontend-forms-example)",
+              "OctoberCMS backend forms used in a frontend component example",
+              ""
+            ],
+            [
+              "9",
+              "[@kasparsd](https://github.com/kasparsd)/[**numeric-shortlinks**](https://github.com/kasparsd/numeric-shortlinks)",
+              "WordPress plugin which enables shortlinks for posts and pages based on their ID (i.e. http://example.com/123)",
+              ""
+            ],
+            [
+              "8",
+              "[@YahnisElsts](https://github.com/YahnisElsts)/[**wp-extension-meta**](https://github.com/YahnisElsts/wp-extension-meta)",
+              "A PHP library for parsing WordPress plugin and theme metadata. It can extract the version number and description from a plugin ZIP, parse readme.txt files and so on.",
+              ""
+            ],
+            [
+              "8",
+              "[@dmitryd](https://github.com/dmitryd)/[**typo3-pagepath**](https://github.com/dmitryd/typo3-pagepath)",
+              "An extension for TYPO3 CMS (see the README for more information)",
+              ""
+            ],
+            [
+              "8",
+              "[@b2z](https://github.com/b2z)/[**joomla-25-component-…**](https://github.com/b2z/joomla-25-component-example)",
+              "Joomla! 2.5 \"Hello World!\" component code for the tutorial on JoomlaBlog.ru",
+              ""
+            ],
+            [
+              "7",
+              "[@dmitryd](https://github.com/dmitryd)/[**typo3-simplemvc**](https://github.com/dmitryd/typo3-simplemvc)",
+              "A TYPO3 \"simplemvc\" extension. This extension adds a simple high performance MVC framework to TYPO3.",
+              ""
+            ],
+            [
+              "6",
+              "[@sitilge](https://github.com/sitilge)/[**abimo**](https://github.com/sitilge/abimo)",
+              "PHP skeleton.",
+              ""
+            ],
+            [
+              "6",
+              "[@andrewtch](https://github.com/andrewtch)/[**php-bayes**](https://github.com/andrewtch/php-bayes)",
+              "Usable naive bayesian classes",
+              ""
+            ],
+            [
+              "6",
+              "[@kasparsd](https://github.com/kasparsd)/[**latvijas-pilsetas-no…**](https://github.com/kasparsd/latvijas-pilsetas-novadi)",
+              "Latvijas novadi un pilsētas JSON formātā",
+              ""
+            ],
+            [
+              "6",
+              "[@kasparsd](https://github.com/kasparsd)/[**widget-output-cache**](https://github.com/kasparsd/widget-output-cache)",
+              "Caches widget output in transients (or object cache, if enabled)",
+              "[:arrow_upper_right:](http://wordpress.org/plugins/widget-output-cache/)"
+            ],
+            [
+              "5",
+              "[@kasparsd](https://github.com/kasparsd)/[**multisite-local-dev**](https://github.com/kasparsd/multisite-local-dev)",
+              "WordPress Multisite Local Dev -- a MU plugin for WordPress",
+              ""
+            ],
+            [
+              "5",
+              "[@MatissJanis](https://github.com/MatissJanis)/[**oc-mail**](https://github.com/MatissJanis/oc-mail)",
+              "OctoberCMS mail statistics and logging plugin",
+              ""
+            ],
+            [
+              "5",
+              "[@kasparsd](https://github.com/kasparsd)/[**widget-context-basic**](https://github.com/kasparsd/widget-context-basic)",
+              "The easiest way to take control of your sidebar areas, widgets and their visibility",
+              ""
+            ],
+            [
+              "5",
+              "[@laacz](https://github.com/laacz)/[**google-reader-migrat…**](https://github.com/laacz/google-reader-migration)",
+              "Script to perform Google Reader migration between two Google accounts.",
+              ""
+            ],
+            [
+              "5",
+              "[@gintsmurans](https://github.com/gintsmurans)/[**staticphp**](https://github.com/gintsmurans/staticphp)",
+              "A lightweight PHP framework",
+              "[:arrow_upper_right:](http://staticphp.gm.lv/  )"
+            ],
+            [
+              "4",
+              "[@laacz](https://github.com/laacz)/[**php-microtest**](https://github.com/laacz/php-microtest)",
+              "Micro TDD framework for PHP 5.3+",
+              ""
+            ],
+            [
+              "4",
+              "[@andrewtch](https://github.com/andrewtch)/[**perceptual-hash**](https://github.com/andrewtch/perceptual-hash)",
+              "Perceptual (average / DCT) hashes in PHP",
+              ""
+            ],
+            [
+              "4",
+              "[@aik099](https://github.com/aik099)/[**db-reflection**](https://github.com/aik099/db-reflection)",
+              "Library for changing database structure through PHP database reflection classes.",
+              ""
+            ],
+            [
+              "4",
+              "[@dmitryd](https://github.com/dmitryd)/[**typo3-sentry**](https://github.com/dmitryd/typo3-sentry)",
+              "Sentry integration with TYPO3",
+              ""
+            ],
+            [
+              "4",
+              "[@laacz](https://github.com/laacz)/[**php-threading**](https://github.com/laacz/php-threading)",
+              "Threading implemented in PHP",
+              ""
+            ],
+            [
+              "3",
+              "[@andrewtch](https://github.com/andrewtch)/[**phpwildcard**](https://github.com/andrewtch/phpwildcard)",
+              "PHP wildcard (boo?.foo*.bar) string matching",
+              ""
+            ],
+            [
+              "3",
+              "[@fruit](https://github.com/fruit)/[**sfDoctrineTablePlugi…**](https://github.com/fruit/sfDoctrineTablePlugin)",
+              "Generates feature packed base tables to each Symfony model.",
+              "[:arrow_upper_right:](http://www.symfony-project.org/plugins/sfDoctrineTablePlugin)"
+            ],
+            [
+              "3",
+              "[@kasparsd](https://github.com/kasparsd)/[**base**](https://github.com/kasparsd/base)",
+              "A bare WordPress theme with lot's of filters and hooks for creating awesome child themes",
+              ""
+            ],
+            [
+              "3",
+              "[@kasparsd](https://github.com/kasparsd)/[**Simple-WordPress-Arc…**](https://github.com/kasparsd/Simple-WordPress-Archives)",
+              "Provides a few shortcodes for listing post archives grouped by categories or taxonomies",
+              ""
+            ],
+            [
+              "3",
+              "[@kasparsd](https://github.com/kasparsd)/[**metro-share**](https://github.com/kasparsd/metro-share)",
+              "The ultimate social sharing plugin that doesn't slow down your site.",
+              ""
+            ],
+            [
+              "3",
+              "[@uldisn](https://github.com/uldisn)/[**ace**](https://github.com/uldisn/ace)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@laacz](https://github.com/laacz)/[**wall4php**](https://github.com/laacz/wall4php)",
+              "Wall for php",
+              ""
+            ],
+            [
+              "3",
+              "[@b2z](https://github.com/b2z)/[**joomla-sample-module**](https://github.com/b2z/joomla-sample-module)",
+              "Sample module for Joomla! 2.5 and 3.x",
+              ""
+            ],
+            [
+              "3",
+              "[@kasparsd](https://github.com/kasparsd)/[**tinker-theme**](https://github.com/kasparsd/tinker-theme)",
+              "A WordPress theme for creators, bloggers and writers",
+              "[:arrow_upper_right:](http://preseto.com/themes/tinker)"
+            ],
+            [
+              "3",
+              "[@integry](https://github.com/integry)/[**integry-framework**](https://github.com/integry/integry-framework)",
+              "Lightweight framework for PHP web applications, licensed under LGPL",
+              "[:arrow_upper_right:](http://livecart.com)"
+            ],
+            [
+              "3",
+              "[@pilsetnieks](https://github.com/pilsetnieks)/[**PQP-faceless**](https://github.com/pilsetnieks/PQP-faceless)",
+              "A drop-in replacement for Particletree's PHP Quick profiler for profiling PHP scripts without HTML output (for example, cron jobs)",
+              "[:arrow_upper_right:](http://www.nuovo.lv/)"
+            ],
+            [
+              "3",
+              "[@integry](https://github.com/integry)/[**integry-payments**](https://github.com/integry/integry-payments)",
+              "PHP library that unifies payment handling accross different payment processors, split from LiveCart project",
+              "[:arrow_upper_right:](http://livecart.com)"
+            ],
+            [
+              "3",
+              "[@YahnisElsts](https://github.com/YahnisElsts)/[**plugin-compatibility…**](https://github.com/YahnisElsts/plugin-compatibility-reporter)",
+              "A WordPress plugin that lets report whether your active plugins are working properly.",
+              ""
+            ],
+            [
+              "3",
+              "[@MatissJanis](https://github.com/MatissJanis)/[**ToffCMS-Backend-API**](https://github.com/MatissJanis/ToffCMS-Backend-API)",
+              "AngularJS CMS with Laravel backend for WEB artisans - Backend API repository",
+              "[:arrow_upper_right:](http://matissja.github.io/ToffCMS/)"
+            ],
+            [
+              "3",
+              "[@chernecov](https://github.com/chernecov)/[**CartBundle**](https://github.com/chernecov/CartBundle)",
+              "Useful bundle with simple cart functionality.",
+              "[:arrow_upper_right:](http://www.chernecov.com)"
+            ],
+            [
+              "2",
+              "[@puikinsh](https://github.com/puikinsh)/[**shapely**](https://github.com/puikinsh/shapely)",
+              "Free multipurpose WordPress theme built using Bootstrap and Customizer",
+              "[:arrow_upper_right:](https://colorlib.com/wp/themes/shapely/)"
+            ],
+            [
+              "2",
+              "[@laacz](https://github.com/laacz)/[**misc**](https://github.com/laacz/misc)",
+              "Miscellania",
+              ""
+            ],
+            [
+              "2",
+              "[@laacz](https://github.com/laacz)/[**xls-reader**](https://github.com/laacz/xls-reader)",
+              "Moderately fast Excel binary format (XLS) parser in PHP",
+              ""
+            ],
+            [
+              "2",
+              "[@integry](https://github.com/integry)/[**integry-activerecord**](https://github.com/integry/integry-activerecord)",
+              "ActiveRecord pattern based ORM for PHP, released under LGPL",
+              "[:arrow_upper_right:](http://livecart.com)"
+            ],
+            [
+              "2",
+              "[@MatissJanis](https://github.com/MatissJanis)/[**airbaltic-cheap-flig…**](https://github.com/MatissJanis/airbaltic-cheap-flights)",
+              "Pulls in the whole cheap flight DB and compares the flights",
+              ""
+            ],
+            [
+              "2",
+              "[@fruit](https://github.com/fruit)/[**sfSQLToolsPlugin**](https://github.com/fruit/sfSQLToolsPlugin)",
+              "Symfony task to execute SQL files with triggers, procedures and events in order. Compatible with any kind of database engines.",
+              "[:arrow_upper_right:](http://www.symfony-project.org/plugins/sfSQLToolsPlugin)"
+            ],
+            [
+              "2",
+              "[@martinsbalodis](https://github.com/martinsbalodis)/[**kohana-crud**](https://github.com/martinsbalodis/kohana-crud)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@martinsbalodis](https://github.com/martinsbalodis)/[**kohana-extjsdesktop**](https://github.com/martinsbalodis/kohana-extjsdesktop)",
+              "ExtJS 4 desktop for kohana framework",
+              ""
+            ],
+            [
+              "2",
+              "[@uldisn](https://github.com/uldisn)/[**edifactdata**](https://github.com/uldisn/edifactdata)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@pilsetnieks](https://github.com/pilsetnieks)/[**key-value-api**](https://github.com/pilsetnieks/key-value-api)",
+              "Simple key-value cache API to abstract the underlying key-value store.",
+              ""
+            ],
+            [
+              "2",
+              "[@dmitryd](https://github.com/dmitryd)/[**typo3-pagebrowse**](https://github.com/dmitryd/typo3-pagebrowse)",
+              "TYPO3 \"pagebrowse\" extension. Allows users to easily create a page browser in their extensions.",
+              ""
+            ],
+            [
+              "2",
+              "[@kasparsd](https://github.com/kasparsd)/[**contact-form-7-extra…**](https://github.com/kasparsd/contact-form-7-extras)",
+              "Beautiful controlls for some of the Contact Form 7 advanced features",
+              "[:arrow_upper_right:](https://wordpress.org/plugins/contact-form-7-extras/)"
+            ],
+            [
+              "2",
+              "[@puikinsh](https://github.com/puikinsh)/[**Pinbin-WordPress-The…**](https://github.com/puikinsh/Pinbin-WordPress-Theme)",
+              "Masonry powered grid style WordPress theme.",
+              ""
+            ],
+            [
+              "2",
+              "[@kasparsd](https://github.com/kasparsd)/[**fix-ssl-please**](https://github.com/kasparsd/fix-ssl-please)",
+              "Serve all assets over SSL",
+              ""
+            ],
+            [
+              "2",
+              "[@andrewtch](https://github.com/andrewtch)/[**NoopParserBundle**](https://github.com/andrewtch/NoopParserBundle)",
+              "Subj: parsers, fetchers, web spiders, fetch queue and so on.",
+              ""
             ]
           ]
         }
