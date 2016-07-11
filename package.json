@@ -58,7 +58,8 @@
           "[Python](#python)",
           "[R](#r)",
           "[Ruby](#ruby)",
-          "[Shell](#shell)"
+          "[Shell](#shell)",
+          "[Swift](#swift)"
         ]
       },
       {
@@ -1679,6 +1680,45 @@
               "3",
               "[@zabbix](https://github.com/zabbix)/[**zabbix-patches**](https://github.com/zabbix/zabbix-patches)",
               "Community maintained patches for Zabbix",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Swift #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "15",
+              "[@artursDerkintis](https://github.com/artursDerkintis)/[**JigsawPuzzle**](https://github.com/artursDerkintis/JigsawPuzzle)",
+              "Simple 9x9 jigsaw puzzle game written in Swift",
+              ""
+            ],
+            [
+              "10",
+              "[@artursDerkintis](https://github.com/artursDerkintis)/[**Breakout**](https://github.com/artursDerkintis/Breakout)",
+              "Simple breakout game written in Swift 2.",
+              ""
+            ],
+            [
+              "10",
+              "[@artursDerkintis](https://github.com/artursDerkintis)/[**Traffic-Control**](https://github.com/artursDerkintis/Traffic-Control)",
+              "Simple traffic control game written in Swift 2/ SpriteKit",
+              ""
+            ],
+            [
+              "5",
+              "[@artursDerkintis](https://github.com/artursDerkintis)/[**YouTube**](https://github.com/artursDerkintis/YouTube)",
+              "Simple YouTube client for iPads with PiP feature",
               ""
             ]
           ]
