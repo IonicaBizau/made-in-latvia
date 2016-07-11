@@ -59,7 +59,8 @@
           "[R](#r)",
           "[Ruby](#ruby)",
           "[Shell](#shell)",
-          "[Swift](#swift)"
+          "[Swift](#swift)",
+          "[VimL](#viml)"
         ]
       },
       {
@@ -1720,6 +1721,27 @@
               "[@artursDerkintis](https://github.com/artursDerkintis)/[**YouTube**](https://github.com/artursDerkintis/YouTube)",
               "Simple YouTube client for iPads with PiP feature",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "VimL #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "7",
+              "[@einars](https://github.com/einars)/[**translit.vim**](https://github.com/einars/translit.vim)",
+              "Transliteration mode (russian, greek, etc) plugin for vim",
+              "[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2469)"
             ]
           ]
         }
