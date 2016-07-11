@@ -47,7 +47,8 @@
       {
         "ul": [
           "[JavaScript](#javascript)",
-          "[Java](#java)"
+          "[Java](#java)",
+          "[C#](#c-1)"
         ]
       },
       {
@@ -483,6 +484,51 @@
               "2",
               "[@ivarsv](https://github.com/ivarsv)/[**stanford-ai-class**](https://github.com/ivarsv/stanford-ai-class)",
               "Proof of concept implementations from Lecture materials",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C# #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "446",
+              "[@Knagis](https://github.com/Knagis)/[**CommonMark.NET**](https://github.com/Knagis/CommonMark.NET)",
+              "Implementation of CommonMark specification in C# for converting Markdown documents to HTML. Optimized for maximum performance and portability.",
+              ""
+            ],
+            [
+              "7",
+              "[@pdonald](https://github.com/pdonald)/[**aho-corasick**](https://github.com/pdonald/aho-corasick)",
+              "Aho–Corasick string matching algorithm in C#",
+              ""
+            ],
+            [
+              "4",
+              "[@EntrypointSoft](https://github.com/EntrypointSoft)/[**AspNet.Identity.Enti…**](https://github.com/EntrypointSoft/AspNet.Identity.EntityFramework6)",
+              "EF6 provider for Asp.Net Identity 3.0 RC1",
+              ""
+            ],
+            [
+              "3",
+              "[@pdonald](https://github.com/pdonald)/[**mysql-connector-net**](https://github.com/pdonald/mysql-connector-net)",
+              "MySQL Connector/Net with Entity Framework 6 support.",
+              ""
+            ],
+            [
+              "3",
+              "[@pdonald](https://github.com/pdonald)/[**latvval-kvaldarbs**](https://github.com/pdonald/latvval-kvaldarbs)",
+              "Latviešu valodas vārdu locītājs",
               ""
             ]
           ]
