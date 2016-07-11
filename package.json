@@ -56,7 +56,8 @@
           "[Lua](#lua)",
           "[PHP](#php)",
           "[Python](#python)",
-          "[R](#r)"
+          "[R](#r)",
+          "[Ruby](#ruby)"
         ]
       },
       {
@@ -1371,6 +1372,291 @@
               "2",
               "[@CSBLatvia](https://github.com/CSBLatvia)/[**vardpoor**](https://github.com/CSBLatvia/vardpoor)",
               "R package for variance estimation in survey sampling",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Ruby #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "432",
+              "[@rsim](https://github.com/rsim)/[**oracle-enhanced**](https://github.com/rsim/oracle-enhanced)",
+              "Oracle enhaced adapter for ActiveRecord",
+              ""
+            ],
+            [
+              "195",
+              "[@rsim](https://github.com/rsim)/[**mondrian-olap**](https://github.com/rsim/mondrian-olap)",
+              "JRuby gem for performing multidimensional queries of relational database data using Mondrian OLAP Java library",
+              ""
+            ],
+            [
+              "111",
+              "[@rsim](https://github.com/rsim)/[**ruby-plsql**](https://github.com/rsim/ruby-plsql)",
+              "ruby-plsql gem provides simple Ruby API for calling Oracle PL/SQL procedures. It could be used both for accessing Oracle PL/SQL API procedures in legacy applications as well as it could be used to create PL/SQL unit tests using Ruby testing libraries.",
+              ""
+            ],
+            [
+              "55",
+              "[@ugisozols](https://github.com/ugisozols)/[**emberflare.com**](https://github.com/ugisozols/emberflare.com)",
+              "Community driven place for all things Ember.js",
+              "[:arrow_upper_right:](https://emberflare.com)"
+            ],
+            [
+              "54",
+              "[@rsim](https://github.com/rsim)/[**ruby-plsql-spec**](https://github.com/rsim/ruby-plsql-spec)",
+              "Oracle PL/SQL unit testing with Ruby",
+              ""
+            ],
+            [
+              "45",
+              "[@ugisozols](https://github.com/ugisozols)/[**ember-simple-auth-ra…**](https://github.com/ugisozols/ember-simple-auth-rails-demo)",
+              "Demo showcasing Ember.SimpleAuth with Rails 4.1",
+              ""
+            ],
+            [
+              "38",
+              "[@ebeigarts](https://github.com/ebeigarts)/[**signer**](https://github.com/ebeigarts/signer)",
+              "WS Security XML Certificate signing for Ruby",
+              ""
+            ],
+            [
+              "36",
+              "[@ebeigarts](https://github.com/ebeigarts)/[**exchanger**](https://github.com/ebeigarts/exchanger)",
+              "Ruby client for Exchange Web Services",
+              ""
+            ],
+            [
+              "31",
+              "[@krists](https://github.com/krists)/[**id3tag**](https://github.com/krists/id3tag)",
+              "Native Ruby mp3 tag reader library that aims for 100% covarage of ID3v2.x and ID3v1.x standards",
+              ""
+            ],
+            [
+              "31",
+              "[@rsim](https://github.com/rsim)/[**mondrian_demo**](https://github.com/rsim/mondrian_demo)",
+              "mondrian-olap demo Rails application",
+              ""
+            ],
+            [
+              "19",
+              "[@krists](https://github.com/krists)/[**refile-postgres**](https://github.com/krists/refile-postgres)",
+              "Postgres database as a backend for Refile",
+              ""
+            ],
+            [
+              "19",
+              "[@torbjon](https://github.com/torbjon)/[**octicons-rails**](https://github.com/torbjon/octicons-rails)",
+              "Octicons web fonts and stylesheets as a Rails engine for use with the asset pipeline.",
+              ""
+            ],
+            [
+              "15",
+              "[@rsim](https://github.com/rsim)/[**blog.rayapps.com**](https://github.com/rsim/blog.rayapps.com)",
+              "",
+              ""
+            ],
+            [
+              "14",
+              "[@jurgis](https://github.com/jurgis)/[**spree-additional-cal…**](https://github.com/jurgis/spree-additional-calculators)",
+              "Additional calculators for spree",
+              ""
+            ],
+            [
+              "13",
+              "[@nikitachernov](https://github.com/nikitachernov)/[**FutureProof**](https://github.com/nikitachernov/FutureProof)",
+              "Ruby concurrency extensions",
+              "[:arrow_upper_right:](http://nikitachernov.github.io/FutureProof)"
+            ],
+            [
+              "9",
+              "[@ebeigarts](https://github.com/ebeigarts)/[**active_merchant_firs…**](https://github.com/ebeigarts/active_merchant_first_data)",
+              "First Data Latvia gateway for Active Merchant",
+              ""
+            ],
+            [
+              "7",
+              "[@rsim](https://github.com/rsim)/[**rails3_oracle_sample**](https://github.com/rsim/rails3_oracle_sample)",
+              "Rails 3 beta on Oracle application sample",
+              ""
+            ],
+            [
+              "7",
+              "[@ebeigarts](https://github.com/ebeigarts)/[**oracle_ebs_authentic…**](https://github.com/ebeigarts/oracle_ebs_authentication)",
+              "Oracle E-Business Suite authentication",
+              ""
+            ],
+            [
+              "7",
+              "[@nikitachernov](https://github.com/nikitachernov)/[**pthread.rb**](https://github.com/nikitachernov/pthread.rb)",
+              "Parallel \"threads\" in Ruby using dRb",
+              "[:arrow_upper_right:](http://nikitachernov.github.io/Pthread)"
+            ],
+            [
+              "7",
+              "[@torbjon](https://github.com/torbjon)/[**accountingjs-rails**](https://github.com/torbjon/accountingjs-rails)",
+              "accounting.js for Rails3",
+              ""
+            ],
+            [
+              "6",
+              "[@ebeigarts](https://github.com/ebeigarts)/[**ts-xml**](https://github.com/ebeigarts/ts-xml)",
+              "Thinking Sphinx plugin for xmlpipe2 data sources (Oracle, SQLite3, ...)",
+              ""
+            ],
+            [
+              "6",
+              "[@rsim](https://github.com/rsim)/[**activerecord-do-adap…**](https://github.com/rsim/activerecord-do-adapter)",
+              "ActiveRecord DataObjects adapter",
+              ""
+            ],
+            [
+              "6",
+              "[@assistunion](https://github.com/assistunion)/[**tanuki**](https://github.com/assistunion/tanuki)",
+              "Tanuki is an MVVM-inspired web framework with balls! Abandoned.",
+              ""
+            ],
+            [
+              "5",
+              "[@emuzis](https://github.com/emuzis)/[**zombie_bieber**](https://github.com/emuzis/zombie_bieber)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@ebeigarts](https://github.com/ebeigarts)/[**omniauth-latvija**](https://github.com/ebeigarts/omniauth-latvija)",
+              "Latvija.lv authentication strategy for OmniAuth",
+              ""
+            ],
+            [
+              "5",
+              "[@ebeigarts](https://github.com/ebeigarts)/[**database_loader**](https://github.com/ebeigarts/database_loader)",
+              "Load SQL views, materialized views, grants, etc. into database.",
+              ""
+            ],
+            [
+              "4",
+              "[@torbjon](https://github.com/torbjon)/[**newrelic_memory_agen…**](https://github.com/torbjon/newrelic_memory_agent)",
+              "NewRelic plugin for memory(RAM) monitoring",
+              ""
+            ],
+            [
+              "4",
+              "[@rsim](https://github.com/rsim)/[**rails_ebs_demo**](https://github.com/rsim/rails_ebs_demo)",
+              "Rails on Oracle E-Business Suite demo",
+              ""
+            ],
+            [
+              "4",
+              "[@BLauris](https://github.com/BLauris)/[**football_league**](https://github.com/BLauris/football_league)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@torbjon](https://github.com/torbjon)/[**typeahead-rails**](https://github.com/torbjon/typeahead-rails)",
+              "Twitter Typeahead.js with Rails asset pipeline",
+              ""
+            ],
+            [
+              "4",
+              "[@rsim](https://github.com/rsim)/[**sales_app_demo**](https://github.com/rsim/sales_app_demo)",
+              "Demo Sales app for RailsConf 2015 presentation",
+              ""
+            ],
+            [
+              "3",
+              "[@jurgis](https://github.com/jurgis)/[**rails3-templates**](https://github.com/jurgis/rails3-templates)",
+              "Rails 3 templates",
+              ""
+            ],
+            [
+              "3",
+              "[@rodzhers](https://github.com/rodzhers)/[**calendar-backbone**](https://github.com/rodzhers/calendar-backbone)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@ebeigarts](https://github.com/ebeigarts)/[**ruby-foomatic**](https://github.com/ebeigarts/ruby-foomatic)",
+              "Ruby interface to the Foomatic printer database",
+              ""
+            ],
+            [
+              "2",
+              "[@ebeigarts](https://github.com/ebeigarts)/[**homebrew-magic-lante…**](https://github.com/ebeigarts/homebrew-magic-lantern)",
+              "Magic Lantern Homebrew Tap",
+              ""
+            ],
+            [
+              "2",
+              "[@torbjon](https://github.com/torbjon)/[**reactjs-rails**](https://github.com/torbjon/reactjs-rails)",
+              "React for Rails3",
+              ""
+            ],
+            [
+              "2",
+              "[@ugisozols](https://github.com/ugisozols)/[**recaptcha**](https://github.com/ugisozols/recaptcha)",
+              "Simple recaptcha plugin for rails",
+              ""
+            ],
+            [
+              "2",
+              "[@ugisozols](https://github.com/ugisozols)/[**Learning-Ruby**](https://github.com/ugisozols/Learning-Ruby)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@BLauris](https://github.com/BLauris)/[**custom-css-for-user**](https://github.com/BLauris/custom-css-for-user)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@jurgis](https://github.com/jurgis)/[**spree-complex-calcul…**](https://github.com/jurgis/spree-complex-calculators)",
+              "Calculators for spree commerce",
+              ""
+            ],
+            [
+              "2",
+              "[@miks](https://github.com/miks)/[**declension**](https://github.com/miks/declension)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@rsim](https://github.com/rsim)/[**rails-stack**](https://github.com/rsim/rails-stack)",
+              "Ruby on Rails stack installation with Sprinkle (including Oracle client).",
+              ""
+            ],
+            [
+              "2",
+              "[@gacha](https://github.com/gacha)/[**hamster_time**](https://github.com/gacha/hamster_time)",
+              "hamster_to_pivotal_tracker",
+              ""
+            ],
+            [
+              "2",
+              "[@aigarsdz](https://github.com/aigarsdz)/[**runoff**](https://github.com/aigarsdz/runoff)",
+              "A simple application to create Skype backups",
+              ""
+            ],
+            [
+              "2",
+              "[@vermut](https://github.com/vermut)/[**veewee-centos6-cloud…**](https://github.com/vermut/veewee-centos6-cloudinit)",
+              "Definitions file for a veewee to build centos6 images with recent cloud-init and growpart",
               ""
             ]
           ]
