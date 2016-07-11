@@ -50,7 +50,8 @@
           "[Java](#java)",
           "[C#](#c-1)",
           "[CSS](#css)",
-          "[C](undefined)"
+          "[C](undefined)",
+          "[C++](#c-2)"
         ]
       },
       {
@@ -610,6 +611,57 @@
               "[@TheWhisp](https://github.com/TheWhisp)/[**android_device_samsu…**](https://github.com/TheWhisp/android_device_samsung_s6500)",
               "Device configuration for Samsung GT-S6500 (NFC)",
               "[:arrow_upper_right:](http://forum.xda-developers.com/showthread.php?t=2012939)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C++ #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "49",
+              "[@elnormous](https://github.com/elnormous)/[**ouzel**](https://github.com/elnormous/ouzel)",
+              "C++ 2D game engine for Windows, OS X, Linux, iOS, tvOS and Android",
+              ""
+            ],
+            [
+              "16",
+              "[@elnormous](https://github.com/elnormous)/[**RealisticWaterSceneN…**](https://github.com/elnormous/RealisticWaterSceneNode)",
+              "Realistic water scene node for Irrlicht",
+              ""
+            ],
+            [
+              "8",
+              "[@WheretIB](https://github.com/WheretIB)/[**nullc**](https://github.com/WheretIB/nullc)",
+              "Fast C-like programming language with advanced features",
+              ""
+            ],
+            [
+              "4",
+              "[@xcoder123](https://github.com/xcoder123)/[**SvgToGcode**](https://github.com/xcoder123/SvgToGcode)",
+              "Takes SVG and converts the elements in gcode instructions.",
+              ""
+            ],
+            [
+              "4",
+              "[@elnormous](https://github.com/elnormous)/[**FlurryX**](https://github.com/elnormous/FlurryX)",
+              "C++ wrapper for Flurry Analytics for Cocos2d-x",
+              ""
+            ],
+            [
+              "4",
+              "[@elnormous](https://github.com/elnormous)/[**rtmp_relay**](https://github.com/elnormous/rtmp_relay)",
+              "RTMP relay",
+              ""
             ]
           ]
         }
