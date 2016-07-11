@@ -57,7 +57,8 @@
           "[PHP](#php)",
           "[Python](#python)",
           "[R](#r)",
-          "[Ruby](#ruby)"
+          "[Ruby](#ruby)",
+          "[Shell](#shell)"
         ]
       },
       {
@@ -1657,6 +1658,27 @@
               "2",
               "[@vermut](https://github.com/vermut)/[**veewee-centos6-cloud…**](https://github.com/vermut/veewee-centos6-cloudinit)",
               "Definitions file for a veewee to build centos6 images with recent cloud-init and growpart",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Shell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "3",
+              "[@zabbix](https://github.com/zabbix)/[**zabbix-patches**](https://github.com/zabbix/zabbix-patches)",
+              "Community maintained patches for Zabbix",
               ""
             ]
           ]
