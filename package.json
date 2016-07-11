@@ -54,7 +54,8 @@
           "[C++](#c-2)",
           "[Go](#go)",
           "[Lua](#lua)",
-          "[PHP](#php)"
+          "[PHP](#php)",
+          "[Python](#python)"
         ]
       },
       {
@@ -1207,6 +1208,141 @@
               "2",
               "[@andrewtch](https://github.com/andrewtch)/[**NoopParserBundle**](https://github.com/andrewtch/NoopParserBundle)",
               "Subj: parsers, fetchers, web spiders, fetch queue and so on.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Python #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "261",
+              "[@aivarsk](https://github.com/aivarsk)/[**scrapy-proxies**](https://github.com/aivarsk/scrapy-proxies)",
+              "Random proxy middleware for Scrapy ",
+              ""
+            ],
+            [
+              "229",
+              "[@aivarsk](https://github.com/aivarsk)/[**scruffy**](https://github.com/aivarsk/scruffy)",
+              "Makes SVG shapes look hand-drawn and creates UML diagrams using yUML (http://yuml.me) syntax",
+              ""
+            ],
+            [
+              "20",
+              "[@alekz](https://github.com/alekz)/[**game-server**](https://github.com/alekz/game-server)",
+              "Simple client-server game in Twisted",
+              ""
+            ],
+            [
+              "19",
+              "[@daGrevis](https://github.com/daGrevis)/[**Dotfiles**](https://github.com/daGrevis/Dotfiles)",
+              "Dotfiles for my Arch Linux workstation(s)",
+              ""
+            ],
+            [
+              "17",
+              "[@festlv](https://github.com/festlv)/[**carpc**](https://github.com/festlv/carpc)",
+              "RaspberryPi based CarPC build, to replace stock Volvo navigation system",
+              ""
+            ],
+            [
+              "16",
+              "[@ototo](https://github.com/ototo)/[**jic**](https://github.com/ototo/jic)",
+              "JIRA Command Line Client",
+              ""
+            ],
+            [
+              "7",
+              "[@daGrevis](https://github.com/daGrevis)/[**pong-py**](https://github.com/daGrevis/pong-py)",
+              "Pong Game in Python",
+              ""
+            ],
+            [
+              "6",
+              "[@daGrevis](https://github.com/daGrevis)/[**mdx_linkify**](https://github.com/daGrevis/mdx_linkify)",
+              "Link recognition for Python Markdown",
+              ""
+            ],
+            [
+              "4",
+              "[@Brick85](https://github.com/Brick85)/[**sitemenu**](https://github.com/Brick85/sitemenu)",
+              "Nested menu for django projects",
+              ""
+            ],
+            [
+              "4",
+              "[@krikulis](https://github.com/krikulis)/[**draugiem**](https://github.com/krikulis/draugiem)",
+              "draugiem.lv api wrapperis python",
+              ""
+            ],
+            [
+              "4",
+              "[@pundurs](https://github.com/pundurs)/[**sc2cm**](https://github.com/pundurs/sc2cm)",
+              "A Django app for managing a Starcraft 2 clan. Synchronises members from rankedftw.com and their statistics from Battle.net",
+              ""
+            ],
+            [
+              "4",
+              "[@Brick85](https://github.com/Brick85)/[**options**](https://github.com/Brick85/options)",
+              "Options for django admin. Administrator emails, phones, contact data, etc.",
+              ""
+            ],
+            [
+              "3",
+              "[@daGrevis](https://github.com/daGrevis)/[**sweetcache**](https://github.com/daGrevis/sweetcache)",
+              "Lightweight, framework agnostic caching library with sweet API",
+              ""
+            ],
+            [
+              "3",
+              "[@abele](https://github.com/abele)/[**dotfiles**](https://github.com/abele/dotfiles)",
+              "Authors prefered home setup for Linux",
+              ""
+            ],
+            [
+              "3",
+              "[@vestel](https://github.com/vestel)/[**clevernote**](https://github.com/vestel/clevernote)",
+              "Command-Line evernote environment",
+              ""
+            ],
+            [
+              "3",
+              "[@daGrevis](https://github.com/daGrevis)/[**daGrevis.lv**](https://github.com/daGrevis/daGrevis.lv)",
+              "My blog on Django 1.5 (Python)",
+              "[:arrow_upper_right:](http://dagrevis.lv/)"
+            ],
+            [
+              "2",
+              "[@alekz](https://github.com/alekz)/[**pygame-game**](https://github.com/alekz/pygame-game)",
+              "Experiments with Pygame framework",
+              ""
+            ],
+            [
+              "2",
+              "[@FylmTM](https://github.com/FylmTM)/[**edX-code**](https://github.com/FylmTM/edX-code)",
+              "Solved edX courses problems sets, by me.",
+              ""
+            ],
+            [
+              "2",
+              "[@kamikaze](https://github.com/kamikaze)/[**python-practics**](https://github.com/kamikaze/python-practics)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@Brick85](https://github.com/Brick85)/[**django-qshop**](https://github.com/Brick85/django-qshop)",
+              "",
               ""
             ]
           ]
