@@ -52,7 +52,8 @@
           "[CSS](#css)",
           "[C](undefined)",
           "[C++](#c-2)",
-          "[Go](#go)"
+          "[Go](#go)",
+          "[Lua](#lua)"
         ]
       },
       {
@@ -696,6 +697,93 @@
               "[@postfix](https://github.com/postfix)/[**keyvault**](https://github.com/postfix/keyvault)",
               "A simple embeddable key vault for use in Go programs.",
               "[:arrow_upper_right:](http://gokyle.org/keyvault)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Lua #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "27",
+              "[@ar2rsawseen](https://github.com/ar2rsawseen)/[**GiderosCodingEasy**](https://github.com/ar2rsawseen/GiderosCodingEasy)",
+              "Extending Gideros Functionality",
+              ""
+            ],
+            [
+              "14",
+              "[@ar2rsawseen](https://github.com/ar2rsawseen)/[**GameTemplate**](https://github.com/ar2rsawseen/GameTemplate)",
+              "Upcoming Gideros Mobile Game Template",
+              ""
+            ],
+            [
+              "6",
+              "[@Akuukis](https://github.com/Akuukis)/[**RobotColorWars-Minec…**](https://github.com/Akuukis/RobotColorWars-Minecraft)",
+              "Project in Lua for OpenComputers to make ColorWars where robots explore, build bases, reproduce and fight with each other. ",
+              ""
+            ],
+            [
+              "5",
+              "[@ar2rsawseen](https://github.com/ar2rsawseen)/[**Json**](https://github.com/ar2rsawseen/Json)",
+              "JSON Encoder and Parser for Lua 5.1",
+              "[:arrow_upper_right:](http://www.chipmunkav.com/downloads/Json.lua)"
+            ],
+            [
+              "5",
+              "[@ar2rsawseen](https://github.com/ar2rsawseen)/[**dataSaver**](https://github.com/ar2rsawseen/dataSaver)",
+              "Save and load data module for Gideros Mobile",
+              "[:arrow_upper_right:](http://appcodingeasy.com/Gideros-Mobile/Save-and-load-data-module-for-Gideros-Mobile)"
+            ],
+            [
+              "4",
+              "[@ar2rsawseen](https://github.com/ar2rsawseen)/[**TextWrap**](https://github.com/ar2rsawseen/TextWrap)",
+              "Creating multi line text fields in Gideros Mobile",
+              "[:arrow_upper_right:](http://appcodingeasy.com/Gideros-Mobile/Creating-multi-line-text-fields-in-Gideros-Mobile)"
+            ],
+            [
+              "3",
+              "[@ar2rsawseen](https://github.com/ar2rsawseen)/[**GiderosUnite**](https://github.com/ar2rsawseen/GiderosUnite)",
+              "Gideros Unite framework provides a way to implement Multiplayer games using Gideros Mobile. It uses LuaSocket to establish socket connections and even create server/client instances.",
+              "[:arrow_upper_right:](http://appcodingeasy.com/Gideros-Mobile/Gideros-Unite-framework-for-multiplayer-games)"
+            ],
+            [
+              "3",
+              "[@ar2rsawseen](https://github.com/ar2rsawseen)/[**AceSlide_oop**](https://github.com/ar2rsawseen/AceSlide_oop)",
+              "Oop version of AceSlide which uses Gideros class system",
+              "[:arrow_upper_right:](http://appcodingeasy.com/Gideros-Mobile/Easy-input-for-choosing-packages-or-levels-in-Gideros-Mobile)"
+            ],
+            [
+              "3",
+              "[@ar2rsawseen](https://github.com/ar2rsawseen)/[**Gestures**](https://github.com/ar2rsawseen/Gestures)",
+              "Detecting Gestures in Gideros",
+              "[:arrow_upper_right:](http://appcodingeasy.com/Gideros-Mobile/Detecting-Gestures-in-Gideros)"
+            ],
+            [
+              "3",
+              "[@ar2rsawseen](https://github.com/ar2rsawseen)/[**Localize**](https://github.com/ar2rsawseen/Localize)",
+              "Localization in Gideros",
+              "[:arrow_upper_right:](http://appcodingeasy.com/Gideros-Mobile/Localization-in-Gideros)"
+            ],
+            [
+              "2",
+              "[@ar2rsawseen](https://github.com/ar2rsawseen)/[**AceSlide**](https://github.com/ar2rsawseen/AceSlide)",
+              "Easy input for choosing packages or levels in Gideros Mobile",
+              "[:arrow_upper_right:](http://appcodingeasy.com/Gideros-Mobile/Easy-input-for-choosing-packages-or-levels-in-Gideros-Mobile)"
+            ],
+            [
+              "2",
+              "[@ar2rsawseen](https://github.com/ar2rsawseen)/[**Share**](https://github.com/ar2rsawseen/Share)",
+              "Share button in Gideros app",
+              "[:arrow_upper_right:](http://appcodingeasy.com/Gideros-Mobile/Share-button-in-Gideros-app)"
             ]
           ]
         }
