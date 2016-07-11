@@ -51,7 +51,8 @@
           "[C#](#c-1)",
           "[CSS](#css)",
           "[C](undefined)",
-          "[C++](#c-2)"
+          "[C++](#c-2)",
+          "[Go](#go)"
         ]
       },
       {
@@ -662,6 +663,39 @@
               "[@elnormous](https://github.com/elnormous)/[**rtmp_relay**](https://github.com/elnormous/rtmp_relay)",
               "RTMP relay",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Go #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "4",
+              "[@vpavkin](https://github.com/vpavkin)/[**GoRefactor**](https://github.com/vpavkin/GoRefactor)",
+              "refactoring tool for Go Programming Language",
+              ""
+            ],
+            [
+              "3",
+              "[@postfix](https://github.com/postfix)/[**csrf**](https://github.com/postfix/csrf)",
+              "XSRF Token generation for Go web app",
+              ""
+            ],
+            [
+              "2",
+              "[@postfix](https://github.com/postfix)/[**keyvault**](https://github.com/postfix/keyvault)",
+              "A simple embeddable key vault for use in Go programs.",
+              "[:arrow_upper_right:](http://gokyle.org/keyvault)"
             ]
           ]
         }
