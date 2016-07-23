@@ -1,16 +1,9 @@
 
-# made-in-latvia
+# Made in Latvia
 
  [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/made-in-latvia.svg)](https://www.npmjs.com/package/made-in-latvia) [![Downloads](https://img.shields.io/npm/dt/made-in-latvia.svg)](https://www.npmjs.com/package/made-in-latvia) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > A list of neat projects made in Latvia
-
-## :cloud: Installation
-
-```sh
-$ npm i --save made-in-latvia
-```
-
 
 ## Contents
 
@@ -318,31 +311,6 @@ $ npm i --save made-in-latvia
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 7 | [@einars](https://github.com/einars)/[**translit.vim**](https://github.com/einars/translit.vim) | Transliteration mode (russian, greek, etc) plugin for vim | [:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2469)
-
-## :clipboard: Example
-
-
-
-```js
-const madeInLatvia = require("made-in-latvia");
-
-console.log(madeInLatvia());
-```
-
-## :memo: Documentation
-
-
-### `madeInLatvia(a, b)`
-A list of neat projects made in Latvia
-
-#### Params
-- **Number** `a`: Param descrpition.
-- **Number** `b`: Param descrpition.
-
-#### Return
-- **Number** Return description.
-
-
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
