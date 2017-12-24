@@ -9,6 +9,7 @@
 
 ## Contents
 
+
  - [JavaScript](#javascript)
  - [Java](#java)
  - [C#](#c-1)
@@ -26,6 +27,7 @@
  - [VimL](#viml)
 
 ### JavaScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 3841 | [@fancyapps](https://github.com/fancyapps)/[**fancyBox**](https://github.com/fancyapps/fancyBox) | fancyBox is a tool that offers a nice and elegant way to add zooming functionality for images, html content and multi-media on your webpages. | [:arrow_upper_right:](http://fancyapps.com/fancybox/)
@@ -76,7 +78,9 @@
 2 | [@dnasir](https://github.com/dnasir)/[**jquery-tagz**](https://github.com/dnasir/jquery-tagz) | jQuery plugin that converts standard HTML text input into a cool tag list. |
 2 | [@pkrumins](https://github.com/pkrumins)/[**plurk-translation-to…**](https://github.com/pkrumins/plurk-translation-tool) | A GreaseMonkey script for translating plurks on any timeline | [:arrow_upper_right:](http://opensource.plurk.com/Translation_Tool/)
 2 | [@intarstudents](https://github.com/intarstudents)/[**Bytingshark**](https://github.com/intarstudents/Bytingshark) | Add missing file size UI to Grooveshark! | [:arrow_upper_right:](http://userscripts.org/scripts/show/119253)
+
 ### Java #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 498 | [@attenzione](https://github.com/attenzione)/[**android-ColorPickerP…**](https://github.com/attenzione/android-ColorPickerPreference) | ColorPickerPreference for android to create color picker in preferences. Project created as Library |
@@ -99,7 +103,9 @@
 2 | [@LatvianModder](https://github.com/LatvianModder)/[**EnkiTools**](https://github.com/LatvianModder/EnkiTools) | EnkiTools mod | [:arrow_upper_right:](http://minecraft.curseforge.com/projects/enkitools)
 2 | [@LatvianModder](https://github.com/LatvianModder)/[**Silicio**](https://github.com/LatvianModder/Silicio) | Silicio mod | [:arrow_upper_right:](http://minecraft.curseforge.com/projects/silicio)
 2 | [@ivarsv](https://github.com/ivarsv)/[**stanford-ai-class**](https://github.com/ivarsv/stanford-ai-class) | Proof of concept implementations from Lecture materials |
+
 ### C# #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 446 | [@Knagis](https://github.com/Knagis)/[**CommonMark.NET**](https://github.com/Knagis/CommonMark.NET) | Implementation of CommonMark specification in C# for converting Markdown documents to HTML. Optimized for maximum performance and portability. |
@@ -107,11 +113,15 @@
 4 | [@EntrypointSoft](https://github.com/EntrypointSoft)/[**AspNet.Identity.Enti…**](https://github.com/EntrypointSoft/AspNet.Identity.EntityFramework6) | EF6 provider for Asp.Net Identity 3.0 RC1 |
 3 | [@pdonald](https://github.com/pdonald)/[**mysql-connector-net**](https://github.com/pdonald/mysql-connector-net) | MySQL Connector/Net with Entity Framework 6 support. |
 3 | [@pdonald](https://github.com/pdonald)/[**latvval-kvaldarbs**](https://github.com/pdonald/latvval-kvaldarbs) | Latviešu valodas vārdu locītājs |
+
 ### CSS #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 4 | [@ncla](https://github.com/ncla)/[**SiteUpdateTracker**](https://github.com/ncla/SiteUpdateTracker) | Tracking stuff. |
+
 ### C #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 27 | [@DimaSmirnov](https://github.com/DimaSmirnov)/[**Archlinux-downgrader**](https://github.com/DimaSmirnov/Archlinux-downgrader) | Powerful packages downgrader for Archlinux, written in C |
@@ -121,7 +131,9 @@
 4 | [@andreyv](https://github.com/andreyv)/[**hexchat-autoaway**](https://github.com/andreyv/hexchat-autoaway) | A HexChat plugin to set away on idle |
 3 | [@arseniuss](https://github.com/arseniuss)/[**flos**](https://github.com/arseniuss/flos) | flos experimental operating system | [:arrow_upper_right:](http://flos.arseniuss.id.lv)
 3 | [@TheWhisp](https://github.com/TheWhisp)/[**android_device_samsu…**](https://github.com/TheWhisp/android_device_samsung_s6500) | Device configuration for Samsung GT-S6500 (NFC) | [:arrow_upper_right:](http://forum.xda-developers.com/showthread.php?t=2012939)
+
 ### C++ #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 49 | [@elnormous](https://github.com/elnormous)/[**ouzel**](https://github.com/elnormous/ouzel) | C++ 2D game engine for Windows, OS X, Linux, iOS, tvOS and Android |
@@ -130,13 +142,17 @@
 4 | [@xcoder123](https://github.com/xcoder123)/[**SvgToGcode**](https://github.com/xcoder123/SvgToGcode) | Takes SVG and converts the elements in gcode instructions. |
 4 | [@elnormous](https://github.com/elnormous)/[**FlurryX**](https://github.com/elnormous/FlurryX) | C++ wrapper for Flurry Analytics for Cocos2d-x |
 4 | [@elnormous](https://github.com/elnormous)/[**rtmp_relay**](https://github.com/elnormous/rtmp_relay) | RTMP relay |
+
 ### Go #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 4 | [@vpavkin](https://github.com/vpavkin)/[**GoRefactor**](https://github.com/vpavkin/GoRefactor) | refactoring tool for Go Programming Language |
 3 | [@postfix](https://github.com/postfix)/[**csrf**](https://github.com/postfix/csrf) | XSRF Token generation for Go web app |
 2 | [@postfix](https://github.com/postfix)/[**keyvault**](https://github.com/postfix/keyvault) | A simple embeddable key vault for use in Go programs. | [:arrow_upper_right:](http://gokyle.org/keyvault)
+
 ### Lua #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 27 | [@ar2rsawseen](https://github.com/ar2rsawseen)/[**GiderosCodingEasy**](https://github.com/ar2rsawseen/GiderosCodingEasy) | Extending Gideros Functionality |
@@ -151,7 +167,9 @@
 3 | [@ar2rsawseen](https://github.com/ar2rsawseen)/[**Localize**](https://github.com/ar2rsawseen/Localize) | Localization in Gideros | [:arrow_upper_right:](http://appcodingeasy.com/Gideros-Mobile/Localization-in-Gideros)
 2 | [@ar2rsawseen](https://github.com/ar2rsawseen)/[**AceSlide**](https://github.com/ar2rsawseen/AceSlide) | Easy input for choosing packages or levels in Gideros Mobile | [:arrow_upper_right:](http://appcodingeasy.com/Gideros-Mobile/Easy-input-for-choosing-packages-or-levels-in-Gideros-Mobile)
 2 | [@ar2rsawseen](https://github.com/ar2rsawseen)/[**Share**](https://github.com/ar2rsawseen/Share) | Share button in Gideros app | [:arrow_upper_right:](http://appcodingeasy.com/Gideros-Mobile/Share-button-in-Gideros-app)
+
 ### PHP #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 385 | [@YahnisElsts](https://github.com/YahnisElsts)/[**plugin-update-checke…**](https://github.com/YahnisElsts/plugin-update-checker) | A custom update checker for WordPress plugins. Ufseful if you can't or don't want to host your plugin in the official WP plugin repository, but would still like it to support automatic plugin updates. |
@@ -222,7 +240,9 @@
 2 | [@puikinsh](https://github.com/puikinsh)/[**Pinbin-WordPress-The…**](https://github.com/puikinsh/Pinbin-WordPress-Theme) | Masonry powered grid style WordPress theme. |
 2 | [@kasparsd](https://github.com/kasparsd)/[**fix-ssl-please**](https://github.com/kasparsd/fix-ssl-please) | Serve all assets over SSL |
 2 | [@andrewtch](https://github.com/andrewtch)/[**NoopParserBundle**](https://github.com/andrewtch/NoopParserBundle) | Subj: parsers, fetchers, web spiders, fetch queue and so on. |
+
 ### Python #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 261 | [@aivarsk](https://github.com/aivarsk)/[**scrapy-proxies**](https://github.com/aivarsk/scrapy-proxies) | Random proxy middleware for Scrapy  |
@@ -245,12 +265,16 @@
 2 | [@FylmTM](https://github.com/FylmTM)/[**edX-code**](https://github.com/FylmTM/edX-code) | Solved edX courses problems sets, by me. |
 2 | [@kamikaze](https://github.com/kamikaze)/[**python-practics**](https://github.com/kamikaze/python-practics) |  |
 2 | [@Brick85](https://github.com/Brick85)/[**django-qshop**](https://github.com/Brick85/django-qshop) |  |
+
 ### R #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2 | [@CSBLatvia](https://github.com/CSBLatvia)/[**surveyplanning**](https://github.com/CSBLatvia/surveyplanning) |  |
 2 | [@CSBLatvia](https://github.com/CSBLatvia)/[**vardpoor**](https://github.com/CSBLatvia/vardpoor) | R package for variance estimation in survey sampling |
+
 ### Ruby #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 432 | [@rsim](https://github.com/rsim)/[**oracle-enhanced**](https://github.com/rsim/oracle-enhanced) | Oracle enhaced adapter for ActiveRecord |
@@ -298,21 +322,28 @@
 2 | [@gacha](https://github.com/gacha)/[**hamster_time**](https://github.com/gacha/hamster_time) | hamster_to_pivotal_tracker |
 2 | [@aigarsdz](https://github.com/aigarsdz)/[**runoff**](https://github.com/aigarsdz/runoff) | A simple application to create Skype backups |
 2 | [@vermut](https://github.com/vermut)/[**veewee-centos6-cloud…**](https://github.com/vermut/veewee-centos6-cloudinit) | Definitions file for a veewee to build centos6 images with recent cloud-init and growpart |
+
 ### Shell #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 3 | [@zabbix](https://github.com/zabbix)/[**zabbix-patches**](https://github.com/zabbix/zabbix-patches) | Community maintained patches for Zabbix |
+
 ### Swift #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 15 | [@artursDerkintis](https://github.com/artursDerkintis)/[**JigsawPuzzle**](https://github.com/artursDerkintis/JigsawPuzzle) | Simple 9x9 jigsaw puzzle game written in Swift |
 10 | [@artursDerkintis](https://github.com/artursDerkintis)/[**Breakout**](https://github.com/artursDerkintis/Breakout) | Simple breakout game written in Swift 2. |
 10 | [@artursDerkintis](https://github.com/artursDerkintis)/[**Traffic-Control**](https://github.com/artursDerkintis/Traffic-Control) | Simple traffic control game written in Swift 2/ SpriteKit |
 5 | [@artursDerkintis](https://github.com/artursDerkintis)/[**YouTube**](https://github.com/artursDerkintis/YouTube) | Simple YouTube client for iPads with PiP feature |
+
 ### VimL #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 7 | [@einars](https://github.com/einars)/[**translit.vim**](https://github.com/einars/translit.vim) | Transliteration mode (russian, greek, etc) plugin for vim | [:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=2469)
+
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
